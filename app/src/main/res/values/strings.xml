@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="restart">reset</string>
+    <string name="shape">oval</string>
+    <string name="button1">00</string>
+    <string name="button2">01</string>
+    <string name="button3">02</string>
+    <string name="button4">10</string>
+    <string name="button5">11</string>
+    <string name="button6">12</string>
+    <string name="button7">20</string>
+    <string name="button8">21</string>
+    <string name="button9">22</string>
+    <string name="player1">player1</string>
+    <string name="player2">player2</string>
+</resources>
